@@ -1,0 +1,60 @@
+﻿no_soal,soal,A,B,C,D,E,kunci,gambar
+1,"Perhatikan ilustrasi berikut:
+
+Gambar (1) menunjukkan aplikasi rekomendasi film yang menyarankan tontonan berdasarkan riwayat pilihan pengguna.
+
+Gambar (2) menunjukkan mesin penjual otomatis (vending machine) yang mengeluarkan produk setelah pengguna memasukkan uang dan memilih tombol tertentu.
+
+Berdasarkan analisis terhadap cara kerja kedua teknologi tersebut, manakah pernyataan yang paling tepat?",Kedua sistem memiliki logika kerja yang sama karena sama-sama memproses input menjadi output.,"Sistem pada gambar (1) bekerja berdasarkan aturan tetap, sedangkan gambar (2) dapat belajar dari data pengguna.","Sistem pada gambar (1) memanfaatkan data pengguna untuk menyesuaikan hasil, sedangkan gambar (2) bekerja dengan instruksi yang sudah ditentukan tanpa perubahan.",Sistem pada gambar (2) lebih kompleks karena tidak membutuhkan data sebelumnya untuk menghasilkan output.,Kedua sistem tidak memiliki perbedaan karena sama-sama berbasis komputer.,C,q01.png
+2,"Perhatikan deskripsi berikut:
+
+Sebuah aplikasi pengenalan wajah digunakan untuk membuka kunci ponsel. Aplikasi ini dapat mengenali wajah pemiliknya dengan membandingkan data wajah yang tersimpan sebelumnya. Jika wajah yang terdeteksi sesuai, maka ponsel akan terbuka. Jika tidak sesuai, akses akan ditolak. Berdasarkan deskripsi tersebut, bagaimana prinsip kerja teknologi tersebut?",Sistem memiliki kecerdasan umum seperti manusia karena dapat mengenali berbagai situasi di luar tugas utamanya.,"Sistem meniru kemampuan manusia dalam mengenali wajah, tetapi hanya terbatas pada tugas spesifik yang telah dilatih.",Sistem dapat berpikir secara bebas dan mengambil keputusan tanpa batas seperti manusia.,Sistem tidak termasuk AI karena hanya mencocokkan data tanpa proses apa pun.,Sistem bekerja secara acak tanpa menggunakan data sebelumnya.,B,
+3,"Perhatikan ilustrasi berikut:
+
+Sebuah sistem AI digunakan untuk mendeteksi email spam. Sistem menganalisis beberapa ciri seperti kata dalam pesan dan alamat pengirim, lalu menghitung kemungkinan (misalnya 90% spam) sebelum mengambil keputusan. Berdasarkan ilustrasi tersebut, bagaimana cara kerja AI dalam memproses data berbasis probabilitas?",Menentukan keputusan hanya dengan satu aturan tetap,Bekerja secara acak tanpa menggunakan data,"Menganalisis data untuk menghitung kemungkinan, lalu memilih keputusan dengan probabilitas tertinggi",Selalu menghasilkan keputusan yang pasti benar tanpa kesalahan,Tidak menggunakan data dalam proses pengambilan keputusan,C,
+4,"Perhatikan gambar berikut:
+
+Gambar tersebut merupakan hasil yang dihasilkan oleh AI dari perintah: “Seorang siswa sedang membaca buku di meja belajar.”
+
+Pada salah satu gambar terlihat adanya ketidaksesuaian pada bagian tubuh atau posisi yang tidak realistis. Berdasarkan perbandingan kedua gambar tersebut, apa yang dapat disimpulkan mengenai cara sistem menghasilkan gambar?",Sistem selalu menghasilkan gambar yang sepenuhnya akurat sesuai dengan kondisi nyata,"Sistem dapat menghasilkan gambar yang tampak realistis, tetapi tidak selalu konsisten dalam menggambarkan struktur tubuh atau posisi objek",Sistem hanya menyalin gambar yang sudah ada tanpa melakukan perubahan,Sistem memahami struktur tubuh manusia secara sempurna seperti manusia,Sistem tidak menggunakan data visual dalam proses pembuatan gambar,B,q04.png
+5,"Perhatikan ilustrasi berikut:
+
+Berdasarkan ilustrasi diatas, mengapa respons chatbot AI pada ilustrasi tersebut tidak sesuai dengan maksud sebenarnya dari siswa?",AI tidak memiliki akses ke informasi jumlah tugas yang dimiliki siswa,AI menafsirkan kalimat secara literal tanpa memahami nada sarkasme atau emosi tersirat,AI secara sengaja memberikan respons positif untuk memotivasi pengguna,AI hanya dapat merespons jika kalimat ditulis dengan struktur formal,AI tidak mampu memproses bahasa manusia dalam bentuk apa pun,B,q05.png
+6,"Perhatikan ilustrasi berikut:
+
+Berdasarkan ilustrasi mengenai percakapan antara siswa dan AI diatas, mengapa jawaban AI pada situasi tersebut tidak sesuai dengan informasi terbaru?",AI tidak mampu memahami pertanyaan tentang olahraga,AI memberikan jawaban secara acak tanpa dasar data,AI menggunakan data yang terbatas pada periode tertentu sehingga tidak mencakup informasi terbaru,AI sengaja memberikan informasi lama agar terlihat konsisten,AI hanya dapat menjawab pertanyaan yang bersifat teoritis,C,q06.png
+7,"Perhatikan teks berikut yang dihasilkan oleh AI:
+
+“Candi Borobudur dibangun pada abad ke-14 oleh Kerajaan Majapahit sebagai pusat perdagangan dan tempat tinggal raja. Selain itu, candi ini terletak di Provinsi Jawa Barat dan digunakan sebagai benteng pertahanan dari serangan musuh.”
+
+Berdasarkan evaluasi terhadap keakuratan fakta dalam teks tersebut, manakah penilaian yang paling tepat?",Teks sepenuhnya benar karena menyebutkan lokasi dan fungsi candi secara lengkap,"Teks mengandung kesalahan fakta karena informasi tentang waktu pembangunan, kerajaan, lokasi, dan fungsi tidak sesuai dengan data sebenarnya",Teks benar karena dibuat oleh AI yang telah dilatih dengan banyak data Sejarah,"Teks hanya salah pada bagian fungsi, tetapi informasi lainnya sudah tepat",Teks tidak dapat dievaluasi karena tidak ada sumber pembanding,B,
+8,"Seorang siswa menggunakan AI untuk mencari informasi tentang dampak penggunaan media sosial terhadap kesehatan mental. AI memberikan jawaban disertai referensi berikut:
+
+1. Artikel dari blog pribadi tanpa penulis yang jelas
+
+2. Ringkasan penelitian tanpa tautan ke jurnal asli
+
+3. Kutipan dari jurnal ilmiah yang dapat dilacak ke publikasi resmi
+
+Siswa kemudian ingin memastikan keakuratan informasi tersebut dengan melakukan verifikasi. Manakah langkah evaluasi yang paling tepat untuk menilai validitas sumber yang diberikan oleh AI?",Menggunakan semua informasi karena berasal dari AI yang dianggap terpercaya,Memilih sumber yang paling mudah dipahami tanpa memeriksa asalnya,Memverifikasi kutipan dengan menelusuri sumber primer (jurnal asli) dan membandingkan isi dengan ringkasan yang diberikan AI,Mengabaikan semua sumber karena AI sering memberikan informasi yang salah,Mengandalkan jumlah sumber yang diberikan tanpa melihat kualitasnya,C,
+9,"Perhatikan ilutrasi berikut :
+
+Setelah membaca jawaban AI, siswa ingin menilai apakah solusi yang diberikan benar-benar sesuai dengan kondisi sekolahnya di Kota Madiun yang memiliki lahan terbatas dan saluran air kecil. Manakah penilaian yang paling tepat terhadap kualitas jawaban AI tersebut?",Jawaban AI sudah sangat baik karena memberikan solusi teknologi modern yang biasa digunakan di berbagai negara maju.,Jawaban AI kurang tepat karena solusi pengendalian banjir seharusnya hanya berfokus pada pembersihan saluran air sekolah secara rutin.,Jawaban AI sudah lengkap karena memberikan lebih dari satu solusi untuk mengurangi banjir tanpa perlu mempertimbangkan kondisi daerah tertentu.,Jawaban AI tidak relevan karena masalah banjir di sekolah tidak dapat diselesaikan menggunakan bantuan teknologi atau AI.,"Jawaban AI cukup relevan, tetapi beberapa solusi yang diberikan kurang mempertimbangkan kondisi lingkungan sekolah yang memiliki keterbatasan lahan dan drainase.",E,q09.png
+10,"Seorang siswa menggunakan AI untuk mencari informasi tentang dampak penggunaan plastik terhadap lingkungan. AI memberikan pernyataan berikut:
+
+“Sampah plastik membutuhkan waktu sekitar 5 tahun untuk terurai secara alami di lingkungan.”
+
+Namun, siswa merasa informasi tersebut mungkin tidak akurat karena berbeda dengan informasi yang pernah ia baca sebelumnya. Langkah strategi verifikasi mandiri manakah yang paling tepat dan sistematis untuk memastikan kebenaran informasi dari AI tersebut?","Memeriksa informasi dari beberapa sumber terpercaya seperti jurnal, situs lembaga lingkungan resmi, dan artikel ilmiah, kemudian membandingkan kesesuaian datanya.",Langsung mengganti jawaban AI dengan pendapat pribadi karena AI sering memberikan informasi yang salah.,Membandingkan jawaban AI dengan komentar di media sosial lalu memilih informasi yang paling banyak dipercaya pengguna internet.,Mengajukan pertanyaan yang sama kepada AI berkali-kali sampai muncul jawaban yang berbeda dan memilih jawaban yang paling detail.,Menyalin jawaban AI lalu meminta teman sekelas menentukan apakah informasi tersebut benar atau salah.,A,
+11,"Perhatikan ilustrasi komposisi data latihan dan hasil rekomendasi AI berikut
+
+Berdasarkan ilustrasi tersebut, AI lebih banyak merekomendasikan siswa dari sekolah perkotaan dibandingkan sekolah pinggiran. Setelah dianalisis, diketahui bahwa sebagian besar data latihan AI berasal dari sekolah perkotaan. Manakah analisis yang paling tepat terkait fenomena tersebut?",AI menghasilkan rekomendasi yang adil karena seluruh data diproses secara otomatis oleh komputer.,Perbedaan hasil rekomendasi terjadi karena siswa dari sekolah pinggiran memiliki kemampuan yang selalu lebih rendah dibandingkan siswa perkotaan.,AI tidak dapat digunakan dalam proses seleksi beasiswa karena seluruh sistem AI pasti menghasilkan diskriminasi.,AI mengalami bias algoritma karena data latihan yang digunakan tidak mewakili kondisi siswa dari berbagai wilayah secara seimbang.,Ketidakseimbangan rekomendasi terjadi karena AI hanya mampu membaca data dari sekolah dengan fasilitas lengkap.,D,q11.png
+12,"Seorang siswa mencoba menggunakan generator gambar AI dengan perintah berikut:
+
+“Tampilkan gambar seorang ilmuwan dan seorang perawat.”
+
+Hasil gambar AI menunjukkan:
+
+Siswa kemudian mendiskusikan bahwa hasil tersebut mungkin dipengaruhi oleh stereotip gender yang sering muncul dalam data di internet dan media. Berdasarkan hasil generator gambar AI tersebut, manakah pernyataan yang paling tepat terkait kemungkinan adanya bias gender?",AI menunjukkan kemungkinan bias gender karena menggambarkan profesi tertentu berdasarkan stereotip yang sering muncul dalam data latihan.,Hasil gambar AI sudah benar karena profesi ilmuwan memang lebih banyak dilakukan laki-laki dan perawat lebih cocok untuk perempuan.,Gambar AI tidak mengandung bias karena semua gambar dihasilkan secara otomatis oleh komputer.,Bias pada gambar terjadi karena AI tidak mampu membuat gambar profesi selain ilmuwan dan perawat.,Hasil gambar AI harus dianggap benar karena AI selalu menggunakan data yang paling akurat dari internet.,A,q12.png
+13,"Perhatikan hasil generator gambar AI tentang “pasar tradisional Indonesia” pada ilustrasi di atas. Meskipun menggunakan tema budaya Indonesia, gambar yang dihasilkan AI justru lebih banyak menampilkan ciri budaya Barat, seperti arsitektur Eropa, penampilan orang asing, dan makanan yang tidak umum ditemukan di pasar tradisional Indonesia.
+
+Berdasarkan ilustrasi tersebut, faktor yang paling mungkin menyebabkan bias pada hasil AI adalah ....",AI hanya mampu menghasilkan gambar berdasarkan budaya negara maju.,Budaya Indonesia tidak dapat divisualisasikan menggunakan teknologi AI modern.,AI sengaja mengubah budaya lokal agar terlihat lebih menarik secara visual.,Sistem AI tidak membutuhkan data budaya lokal untuk menghasilkan gambar yang akurat.,Data latihan AI lebih banyak memuat representasi budaya Barat dibandingkan budaya lokal Indonesia.,E,q13.png
